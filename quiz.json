@@ -1,0 +1,39 @@
+{
+    "foto": [
+      {
+        "question": "Hva er blenderåpning?",
+        "choices": ["En lukker på kameraet", "En åpning i kameraet", "En knapp på kameraet"],
+        "answer": "En åpning i kameraet"
+      },
+      {
+        "question": "Hva er ISO?",
+        "choices": ["En type film", "En type minnekort", "En måleenhet for lysfølsomhet"],
+        "answer": "En måleenhet for lysfølsomhet"
+      }
+    ],
+    "video": [
+      {
+        "question": "Hva betyr FPS?",
+        "choices": ["Frames per second", "Focal point system", "File protection system"],
+        "answer": "Frames per second"
+      },
+      {
+        "question": "Hva er oppløsning?",
+        "choices": ["Antall piksler i bildet", "Antall bilder per sekund", "Antall farger i bildet"],
+        "answer": "Antall piksler i bildet"
+      }
+    ],
+    "lyd": [
+      {
+        "question": "Hva er en decibel?",
+        "choices": ["En måleenhet for avstand", "En måleenhet for lydtrykk", "En måleenhet for tid"],
+        "answer": "En måleenhet for lydtrykk"
+      },
+      {
+        "question": "Hva er en frekvens?",
+        "choices": ["En type musikk", "En måleenhet for lydstyrke", "Antall svingninger per sekund"],
+        "answer": "Antall svingninger per sekund"
+      }
+    ]
+  }
+  
